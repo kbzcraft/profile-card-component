@@ -1,5 +1,5 @@
 # Frontend Mentor - Profile card component
-
+## [Check Out Live Preview](https://kbzcraft.github.io/profile-card-component/)
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
